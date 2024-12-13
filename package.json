@@ -10,7 +10,7 @@
   "prisma": {
     "seed": "tsx prisma/seed.ts"
   },
-  "author": "Rodrigo Gonçalves - @orodrigogo",
+  "author": "Thiago Silva | @bomberthiago",
   "license": "ISC",
   "description": "API do App Nearby da NLW Pocket Mobile",
   "dependencies": {
