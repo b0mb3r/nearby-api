@@ -1,0 +1,9 @@
+[[services]]
+  internal_port = 3333 # A porta usada pela aplicação no código
+  protocol = "tcp"
+
+  [[services.ports]]
+    handlers = ["http"]
+    port = 80
+
+DATABASE_URL = "file:./dev.db"
